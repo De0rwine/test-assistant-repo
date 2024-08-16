@@ -1,6 +1,67 @@
-# Getting Started with Create React App
+# First Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a test repository for test assignments.
+
+## Table of Contents
+- [Description](#description)
+- [Prerequisite](#prerequisite)
+- [Installation Instructions](#installation-instructions)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Description
+This repository is created to evaluate the assistant's ability to use Git, VSCode, and Markdown.
+
+## Prerequisite
+1. Check the version of your node
+    node -v
+    npm -v
+
+2. If no version shows, download Node.js
+    If you use windows use windows install <https://nodejs.org/en>
+    
+3. Create React App
+    ```npx create-react-app test-assistant-repo
+    ```
+4. Then begin typing:
+    ```cd test-assistant-repo
+    ```
+    and 
+    ```npm start
+    ```
+
+## Installation Instructions  
+1. Clone the repository:
+    ```sh
+    git clone <https://github.com/YOUR_USERNAME/test-assistant-repo.git>
+    ```
+2. Navigate to the repository directory:
+    ```sh
+    cd test-assistant-repo
+    ```
+3. Install dependencies:
+    ```sh
+    npm install
+    ```
+
+## Usage
+To start the React application, use the following command:
+    ```sh
+    npm start
+    ```
+
+## Contributing
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+------------------------- original line of "Readme after created test repo -----------------------------
 
 ## Available Scripts
 
